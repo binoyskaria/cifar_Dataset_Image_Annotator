@@ -9,6 +9,8 @@ How to Run
   -Go to "./Backend" folder and run :
   ```
   npm install
+```
+```
   node server.js
   ```
   
@@ -16,6 +18,8 @@ How to Run
   -run : 
   ```
   npm install
+```
+```
   npm run dev
   ```
 
