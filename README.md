@@ -7,7 +7,10 @@ Assumptions
 How to Run
 
   -Go to "./Backend" folder
-  -run : "npm install"
+  -run :
+  ```
+  "npm install"
+```
   -run : "node server.js"
   
   -Go to "./FrontEnd" folder
