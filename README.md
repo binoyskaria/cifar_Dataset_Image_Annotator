@@ -1,3 +1,9 @@
+# Video Tutorial 
+    
+   Full   Video Tutorial about this project  available at https://drive.google.com/file/d/10Pt-RRMw78e7vtWDbDhnR7Q2A5F2vYUj/view?usp=sharing
+   Pdf tutorial attached here in the same parent  github directory
+
+
 # Assumptions
 
   -Have a good internet connection that does not block MongoDB Connections <br/>
@@ -26,7 +32,4 @@
   ```
   http://localhost:5173/"
   ```
-# Video Tutorial 
-    
-   Full   Video Tutorial about this project  available at https://drive.google.com/file/d/10Pt-RRMw78e7vtWDbDhnR7Q2A5F2vYUj/view?usp=sharing
-    pdf tutorial attached here in the same parent  github directory
+
