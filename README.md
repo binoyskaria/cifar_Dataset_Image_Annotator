@@ -26,6 +26,4 @@
   ```
   http://localhost:5173/"
   ```
-  -register a new user
-  -login with that user
-  -Enjoy!!
+  # Now register a new user, login with that user, Enjoy!!
