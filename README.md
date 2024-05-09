@@ -29,3 +29,4 @@
 # Video Tutorial 
     
    Full   Video Tutorial about this project  available at https://drive.google.com/file/d/10Pt-RRMw78e7vtWDbDhnR7Q2A5F2vYUj/view?usp=sharing
+    pdf tutorial attached here in the same parent  github directory
