@@ -14,8 +14,7 @@ How to Run
   node server.js
   ```
   
-  -Go to "./FrontEnd" folder
-  -run : 
+  -Go to "./FrontEnd" folder and run : 
   ```
   npm install
   ```
