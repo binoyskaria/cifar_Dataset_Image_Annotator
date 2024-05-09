@@ -33,3 +33,5 @@
   http://localhost:5173/"
   ```
 
+
+.env file is present at "./Backend/.env", contains MongoDB Connection URL, jwt secret, port
