@@ -1,10 +1,10 @@
-#Assumptions
+# Assumptions
 
   -Have a good internet connection that does not block MongoDB Connections <br/>
   -node and npm is installed in your system<br/>
 
   
-#How to Run
+# How to Run
 
   -Go to "./Backend" folder and run :
   ```
