@@ -6,7 +6,7 @@
   
 # How to Run
 
-  -Go to "./Backend" folder and run :
+  -Go to "./Backend" folder , open cmd and run :
   ```
   npm install
   ```
@@ -14,7 +14,7 @@
   node server.js
   ```
   
-  -Go to "./FrontEnd" folder and run : 
+  -Go to "./FrontEnd" folder, open cmd and run : 
   ```
   npm install
   ```
