@@ -27,4 +27,4 @@
   http://localhost:5173/"
   ```
 # Video Tutorial 
-   Full   Video Tutorial about this project  available at [Google drive link] (# https://drive.google.com/drive/folders/1ESwOq_0caUlLtwvOB_BWSyTnBYHIiqEU?usp=sharing)  Enjoy!!
+   Full   Video Tutorial about this project  available at [Google drive link] (https://drive.google.com/drive/folders/1ESwOq_0caUlLtwvOB_BWSyTnBYHIiqEU?usp=sharing)  Enjoy!!
