@@ -6,13 +6,9 @@ Assumptions
   
 How to Run
 
-  -Go to "./Backend" folder
-  -run :
+  -Go to "./Backend" folder and run :
   ```
   npm install
-  ```
-  -run : 
-  ```
   node server.js
   ```
   
@@ -20,9 +16,6 @@ How to Run
   -run : 
   ```
   npm install
-  ```
-  -run : 
-  ```
   npm run dev
   ```
 
