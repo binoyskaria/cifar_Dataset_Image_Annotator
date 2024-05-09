@@ -1,0 +1,113 @@
+.top-controls {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.upload1 {
+    border: 2px dotted #ccc; /* Dotted border around the upload area */
+    padding: 20px; /* Padding inside the box */
+    width: 80%; /* Set the width or adjust as necessary */
+    margin: 20px auto; /* Centering the box horizontally and giving some space from top and bottom */
+    text-align: center; /* Aligns the text and button to the center */
+    transition: border-color 0.3s ease-in-out; /* Smooth transition for hover effect */
+}
+
+.upload1:hover,
+.upload1.dragging { /* Apply same styles on hover and during drag */
+    border-color: #eb0b0b; /* Change border color on hover and during drag for a visual effect */
+}
+
+.upload1 p {
+    margin-top: 0;
+    margin-bottom: 1em; /* Space between the paragraph and the button */
+}
+
+.upload1 input[type="file"] {
+    width: 100%; /* Ensure the invisible file input spans the whole area for easier clicking */
+}
+
+.button-group {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+}
+
+.button-group button {
+    padding: 20px 20px;
+    padding-left: 20px;
+    margin: 5px;
+    font-size: 12px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+    cursor: pointer;
+}
+
+.button-group button.selected {
+    background-color: #007bff;
+    color: #fff;
+}
+
+#gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.image-preview {
+    display: flex;
+    padding: 10px;
+    align-items: center; /* Ensure alignment of children */
+}
+
+.image-preview > *:not(:last-child) {
+    border-right: 1px solid #ccc; /* Thin line between elements */
+    padding-right: 10px; /* Padding on the right side of each element */
+    margin-right: 10px; /* Margin to add some space after the border */
+}
+
+
+.thumbnail {
+    max-width: 200px;
+    max-height: 200px;
+}
+.submitButton{
+    display: flex;
+    justify-content: center;
+
+}
+
+.messageFinal{
+    display: flex;
+    justify-content: center;
+    align-items: center; /* Center vertically */
+    width: 100%; /* Ensures the flex container takes full width */
+
+}
+
+.category-buttons{
+    padding-left: 230px;
+    
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.category-buttons Button{
+    padding: 20px 20px;
+    padding-left: 20px;
+    margin: 6px;
+    font-size: 12px;
+}
+
+.cancelAllButton{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+

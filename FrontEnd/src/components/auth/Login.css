@@ -1,0 +1,153 @@
+/* Signup.css */
+
+/* Common styles for both light and dark modes */
+.signup-container {
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+.form-group {
+  margin-bottom: 15px;
+  text-align: left;
+}
+
+label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 5px;
+  color: #555;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  font-size: 16px;
+  color: #333; /* Text color for light mode */
+  background-color: #fff; /* Background color for light mode */
+}
+
+input[type="checkbox"] {
+  margin-right: 5px;
+}
+
+button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 3px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.error-message {
+  color: #ff0000;
+  margin-top: 10px;
+}
+
+/* Dark Mode styles */
+.dark-mode .signup-container {
+  background-color: #333;
+  color: #fff;
+}
+
+.dark-mode label {
+  color: #ccc;
+}
+
+.dark-mode input[type="text"],
+.dark-mode input[type="email"],
+.dark-mode input[type="password"] {
+  background-color: #444;
+  color: #fff; /* Text color for dark mode */
+  border: 1px solid #555;
+}
+
+/* Toggle button style */
+button.dark-mode-toggle {
+  background-color: #555;
+  color: #fff;
+}
+
+/* Additional styles can be added as needed */
+/* Signup.css */
+
+/* Light Mode Styles */
+.signup-container {
+  background-color: #fff;
+  color: #333;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  width: 300px;
+  margin: 0 auto;
+  text-align: center;
+  transition: background-color 0.3s ease; /* Add a transition for smooth background color change */
+}
+
+button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.error-message {
+  color: #ff0000;
+  margin-top: 10px;
+}
+
+/* Dark Mode Styles */
+.signup-container.dark-mode {
+  background-color: #000; /* Change the background color to black */
+  color: #fff;
+  transition: background-color 0.3s ease; /* Add a transition for smooth background color change */
+}
+
+.signup-container.dark-mode button {
+  background-color: #555;
+}
+
+/* Form Styles */
+.form-group {
+  margin-bottom: 10px;
+}
+
+label {
+  display: block;
+  font-weight: bold;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="checkbox"] {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+  color: #333; /* Text color for form elements in light mode */
+}
+
+/* Text color for form elements in dark mode */
+.signup-container.dark-mode input[type="text"],
+.signup-container.dark-mode input[type="email"],
+.signup-container.dark-mode input[type="password"],
+.signup-container.dark-mode input[type="checkbox"] {
+  color: #fff;
+}
