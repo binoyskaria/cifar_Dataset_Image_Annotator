@@ -1,7 +1,9 @@
 # Video Tutorial 
     
-   Full   Video Tutorial about this project  available at https://drive.google.com/file/d/10Pt-RRMw78e7vtWDbDhnR7Q2A5F2vYUj/view?usp=sharing
-   also at https://www.youtube.com/watch?v=Dm-wXIYlI2M
+   Full   Video Tutorial about this project  available at
+   # https://www.youtube.com/watch?v=Dm-wXIYlI2M
+   also at
+   # https://drive.google.com/file/d/10Pt-RRMw78e7vtWDbDhnR7Q2A5F2vYUj/view?usp=sharing
    Pdf tutorial attached here in the same parent  github directory
 
 
