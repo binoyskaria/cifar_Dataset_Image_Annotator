@@ -1,7 +1,7 @@
 Assumptions
 
-  -Have a good internet connection that does not block MongoDB Connections
-  -node and npm is installed in your system
+  -Have a good internet connection that does not block MongoDB Connections <br/>
+  -node and npm is installed in your system<br/>
 
   
 How to Run
