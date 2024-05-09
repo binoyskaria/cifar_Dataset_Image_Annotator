@@ -26,4 +26,4 @@
   ```
   http://localhost:5173/"
   ```
-  # Now register a new user, login with that user, Enjoy!!
+  # Now register a new user, login with that user, Full Tutorial content to website  available at [Google drive link] (https://drive.google.com/drive/folders/1ESwOq_0caUlLtwvOB_BWSyTnBYHIiqEU?usp=sharing)  Enjoy!!
