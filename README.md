@@ -27,5 +27,4 @@
   http://localhost:5173/"
   ```
 # Video Tutorial 
-   Now register a new user, login with that user, Full   Video Tutorial 
-   about annotator website  available at [Google drive link] (# https://drive.google.com/drive/folders/1ESwOq_0caUlLtwvOB_BWSyTnBYHIiqEU?usp=sharing)  Enjoy!!
+   Full   Video Tutorial about this website  available at [Google drive link] (# https://drive.google.com/drive/folders/1ESwOq_0caUlLtwvOB_BWSyTnBYHIiqEU?usp=sharing)  Enjoy!!
